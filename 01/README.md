@@ -7,4 +7,4 @@ A typical computer architecture is based on a set of elementary logic gates like
 
 ## Objective
 
-Build all the logic gates described in Chapter 1 (see list below), yielding a basic chip-set. The only building blocks that you can use in this project are primitive Nand gates and the composite gates that you will gradually build on top of them.
+Build all the logic gates described in Chapter 1, yielding a basic chip-set. The only building blocks that you can use in this project are primitive Nand gates and the composite gates that you will gradually build on top of them.
