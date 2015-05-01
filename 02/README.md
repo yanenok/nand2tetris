@@ -7,4 +7,4 @@ The centerpiece of the computer's architecture is the CPU, or Central Processing
 
 ## Objective
 
-Build all the chips described in Chapter 2 (see list below), leading up to an Arithmetic Logic Unit - the Hack computer's ALU. The only building blocks that you can use are the chips described in chapter 1 and the chips that you will gradually build in this project.
+Build all the chips described in Chapter 2, leading up to an Arithmetic Logic Unit - the Hack computer's ALU. The only building blocks that you can use are the chips described in chapter 1 and the chips that you will gradually build in this project.
